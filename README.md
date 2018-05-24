@@ -11,6 +11,7 @@ please complete the following steps to create and host your first personal homep
     - fill in your name in the `<title>` and the `<header>`
     - write a personal introduction
     - write out your personal motivations for joining the course
+    - edit the social media links so they point to your accounts
 4. Add a photo (see below)
 
 ## Host your homepage
