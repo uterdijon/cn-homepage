@@ -1,0 +1,19 @@
+body {
+    max-width: 1200px;
+    margin: auto;
+}
+
+nav,
+footer,
+.introduction {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img {
+    flex-basis: 20%;
+}
+
+h1 {
+    text-align: center;
+}
