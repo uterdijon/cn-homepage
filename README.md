@@ -20,6 +20,8 @@ please complete the following steps to create and host your first personal homep
 2. Scroll down until you see the heading "Github Pages"
 3. Under "Source" select `master branch`
 
+![screenshot of the GitHub settings UI](how_to_gh_pages.png)
+
 ## That's it!
 
 After a few minutes your homepage will be available at
